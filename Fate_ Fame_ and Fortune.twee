@@ -1,0 +1,311 @@
+:: StoryTitle
+Fate, Fame, and Fortune
+
+
+:: StoryData
+{
+  "ifid": "4B390D0F-5F6F-4B66-8ABF-AC4190B8DA4C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Opening",
+  "zoom": 1
+}
+
+
+:: Apprehensively watch on {"position":"1075,1075","size":"100,100"}
+The seemingly powerful swashbuckler is outnumbered, though from her stance she hardly seems intimidated, not even bothering to draw her blade—she simply raises her fists as the gaggle of men inch closer towards her. While you weren’t sure whether or not she could fight them all off single handedly in the little amount of time you’ve watched her, your more business-oriented sense takes over as you realize that helping her could offer an easy in on the contract the men mentioned.
+
+[[Help her]]
+
+
+
+:: Ask if Lottie is under the employ of any other factions {"position":"1950,600","size":"100,100"}
+Lottie shakes her head, anxiously twirling her external gills through her fingers. “Admittedly, I don’t have many connections…This is mostly private research.”
+
+When you raise an eyebrow, Lottie rushes to add, “But I assure you I’m very knowledgeable! I’ve read all about sail management and crew dynamics, and I can tie 18 different knots!!”
+
+As Lottie continues her self-pitch, you and Rosemary seem to both have the same realization.
+
+“Lottie,” Rosemary begins, “All of this is certainly…interesting. But if you say this to imply that you are at all equipped to sail aboard The Adoration, I’m afraid you’re mistaken.”
+
+Lottie’s eager expression dims slightly and she looks down at her papers, voice quieter when she replies, “I’ll concede that I don’t have much real-world experience…it’s not easy to find a crew that will take a Lotl-folk along; but I can make it worth your while, I swear it!”
+
+
+
+:: Ask what she’s doing here {"position":"1325,600","size":"100,100"}
+“Oh, well…actually, I’d be happy to show you!” Her gills flutter excitedly and she smiles, gesturing for you to sit beside her. Once you do, she immediately pushes her well-loved seafarer’s guide across the table to you, then begins unfolding several rolls of parchment that she produces from a shoulder bag, laying them out over the splintered wood. The amount of paperwork is quickly overwhelming and she shows no sign of slowing down. Her bag must be endless.
+
+[[Wait for a little too long]] 
+
+
+:: Call it a night {"position":"1525,1700","size":"100,100"}
+
+
+
+:: Continue to reflect {"position":"400,875","size":"100,100"}
+[[Reflect on the Archipelago]] 
+
+[[Reflect on The Adoration]] 
+
+[[Reflect on your crew]] 
+
+
+:: Elaborate {"position":"1400,1450","size":"100,100"}
+You quickly tell her about the rampantly spreading news of the artifact everyone’s aiming to get their hands on, and how you’re eager to take a shot at getting to it first—and it seems she may be just the one to help you out.
+
+“Well, sorry to say, but that ‘bounty’ mentioned earlier—that’s the artifact. I’m to give it to LIME if I am successful, so I cannot share this with you.”
+
+[[Point out you are also a self-made mariner]]
+
+
+:: Get their attention {"position":"950,600","size":"100,100"}
+You approach the table and tap the Lotl-folk on the shoulder, surprised to find that your hand does not come away damp after touching their skin.
+They startle for a moment, clearly unaware that you were there, their external gills waving along as they turn their head towards you.
+
+“Oh! I’m so sorry, I didn’t notice you there.” The Lotl-folk grants you their full attention, turning in their seat. They’re outfitted in appropriately seaworthy garb befitting any mariner, but their linen blouse is pristine and their leather boots are shiny and unscuffed.
+
+[[Introduce yourself]] 
+
+
+:: Give her space {"position":"1325,1075","size":"100,100"}
+Fearing the worst, you simply take a step back and hope she can handle it—a few seconds of watching her confirms she indeed does. It’s almost like watching a play; her movements are swift yet with purpose, bobbing and weaving between the fists swung at her as she retaliates with blow after blow. You sigh in relief as the rowdy men begin to relent their assault, astonished at how badly they were overpowered.
+
+Badly beaten and demoralized, any remaining standing sailors rush to pick up their battered friends and quickly begin dragging them outside the tavern towards safety. Having proven her point, the corsair spits in their direction before turning back to the bar stand. 
+
+“They just don’t leave you alone, eh?” the stout bartender chuckles, already having a fresh mug prepared for her. She shrugs, immediately beginning to down yet another pint. You take this as your chance to approach her, deciding to take a seat at the stool to her left. 
+
+She continues on drinking, her chin lifting to the ceiling as she poured the rest of the contents down, her eye now opening to look at you as you sat down next to her. 
+
+“...You don’t look like LIME,” she says, simply, upon one glance of you.
+
+[[Why'd they call you 'orange'?]]
+
+[[What's LIME?]]
+
+
+:: Graciously allow Lottie to continue {"position":"1825,600","size":"100,100"}
+Lottie takes a look around the tavern before she continues, shuffling through a few pages on the table to point out a yellowed map with tattered edges and water-smudged ink. “Recently though, I’ve had this hunch...”
+You recognize the point of interest on the map that she’s gesturing towards as the Spire of Brine. With no treasure or civilization to speak of, the tiny island chain has never been a popular destination, and the notoriously choppy waters surrounding it make it more of an obstacle than anything.
+
+“I believe, with a fair degree of certainty, that there exists a means to control The Veil, and that The Spire is of crucial importance.”
+
+This notion definitely piques your interest, and Rosemary’s expression shifts from boredom to intrigue.
+
+Lottie flips the map over to show a hand-drawn diagram of the Spire’s central summit, with unorganized notes scribbled in the margins. “It’s so central to the Archipelago, so steeped in history, and, according to the documents I’ve found, it’s littered with old-world runes that I may be able to translate should I see them for myself.”
+
+Rosemary gives you a look, eyes narrowed skeptically, and you can anticipate her exact concern.
+
+[[Ask if Lottie is under the employ of any other factions]] 
+
+
+:: Help her {"position":"1200,1075","size":"100,100"}
+Taking advantage of the fact that the sailors were far too focused on the pirate to worry about you, you pick up a nearby wooden chair and slam it against the nearest one’s head. He turns to you in frustration, but turning his back to his opponent earns him a swift boot to the back, knocking him forward as he collapses against a wooden table. The two of you work together, the would-be thugs’ offensive falling apart despite their greater numbers.
+
+[[Give her space]]
+
+
+:: Introduce Lottie {"position":"1700,600","size":"100,100"}
+Hoping to defuse what you anticipate could become a very awkward situation, you introduce Lottie to your First Mate, though in knowing so little about the Lotl-folk there isn’t much to share. It’s no matter, though; Lottie seems quite glad to jump in when you run out of things to say.
+
+“Yes, yes, the First Mate of The Adoration, I’m really and truly so humbled to meet you!” Lottie says, offering her hand to Rosemary. 
+
+It takes a moment for Rosemary to reciprocate, and by her expression you can tell she’s debating whether or not she wants to touch Lottie’s slimy-looking palm. Still, she takes Lottie’s hand and quickly shakes it, which is a far friendlier impression than you suspect she would have made if not for your sake.
+
+“Likewise,” Rosemary murmurs, eyes scanning the mess of pages laid out on the table. “And what’s all of this, then?”
+
+“These are all my findings about The Veil that I’ve compiled since I moved here from the mainland!” Lottie explains, seeming even more eager now that she has another person interested in her rambling. “It really is so intriguing…only navigable by the most ocean-worthy, but even the savviest sailors I’ve met can’t pin down its origins or where it is most likely to emerge.
+
+Thus far Rosemary seems unimpressed.
+
+[[Graciously allow Lottie to continue]] 
+
+
+:: Introduce yourself {"position":"1075,600","size":"100,100"}
+You introduce yourself to the Lotl-folk using your formal title as the captain of The Adoration, which seems to excite her.
+
+“Oh, it’s an honor to meet you!! I’ve heard of The Adoration, and I do have to say I’m such a fan of your work!” The Lotl-folk closes her book, which you can now see is a popular sea-farers manual that you’ve spotted on some store shelves while visiting the mainland. The book is a bit of a joke to the circle of mariners you’ve been around, but, judging from the worn cover and dog-eared pages, the Lotl-folk’s copy is well beloved.
+
+“My name is Lottie,” she continues, and when you offer your hand to shake, she grasps it with both of her own. “I must ask, Captain, and do forgive me if this is too forward, but…”
+
+You let her reel you in to whisper as she asks,
+
+“That rumor about the sinking of that Calig Kingdom ship…was that…?” as she trails off, shiny black eyes wide with enthusiasm, you remember the specific incident she’s referring to. It’s been years at this point, and the Kingdom hasn’t bothered you about the incident for a good while now, but it’s still a markedly dark stain on The Adoration’s mostly peaceful reputation.
+
+[[Yes, the rumors are true]] 
+
+
+:: Keep listening {"position":"1575,600","size":"100,100"}
+“You can see that I’ve mapped out some of the borders of it here, but it shifts around so often that there isn’t any conclusive literature I can pull from to help with charting the rest.” Her mottled hands glide over the parchment, calling attention to certain notes and charts as she speaks. “I’ve been to both The Court and Calig Kingdom for information, but either they know even less than I do or they’re keeping any knowledge close to the vest.” 
+
+It’s at this point that Rosemary must have noticed your situation as you hear her approach from behind and feel her hand rest on your shoulder, recognizing her immediately from the stern throat clearing sound she always makes to wedge her way into conversations.
+
+When you glance over your shoulder you see her wearing her signature rigid grimace, but Lottie’s enthusiasm seems unshaken by her presence.
+
+“Captain,” Rosemary begins curtly, “Made another friend, have you? Always so outgoing.”
+
+[[Introduce Lottie]] 
+
+
+:: Keep looking around the tavern {"position":"1400,1700","size":"100,100"}
+[[Look at the reading patron]] 
+
+[[Look at the bard-enthused patron]] 
+
+
+:: Let her continue {"position":"1400,1325","size":"100,100"}
+Citra puts down her empty mug. “Well, if you’re not here to bother me, then what are you here for?”
+
+[[Elaborate]]
+
+
+:: Listen in {"position":"950,1075","size":"100,100"}
+Again, the reserved woman continues to ignore him, instead waving her hand at the bartender for another round of ale. But this time, the sailor man quickly smacks the glass mug out of her hand before she’s even had a chance to bring it to her mouth, sending it flying across the tavern until a loud shatter fills the room, bringing silence down upon everyone else as they turn and watch.
+
+“Did you hear me? I said—” 
+
+He’s barely even started uttering his next sentence when in one swift motion the pirate twists around her stool, her arm reared back as she delivers a meaty punch straight to the troublemaker’s face, sending him sprawling across the wooden floor. The rest of his crew stare in shock at their leader, his eye visibly darkened by the blow. He staggers to rise on his feet, clutching a nearby table for support as he glares daggers at the pirate. 
+
+“So much for the easy way…..boys, get her!”
+
+[[Apprehensively watch on]]
+
+
+:: Look at the bard-enthused patron {"position":"750,875","size":"100,100"}
+PATH UNFINISHED
+
+[[Look at the reading patron]] 
+
+[[Look at the patron nearest you]] 
+
+
+:: Look at the patron nearest you {"position":"700,1075","size":"100,100"}
+While everyone else is busy participating in the merrymaking, one woman sits by herself, ordering yet another glass mug that she downs almost as quickly as she’s handed it. 
+
+The first word that comes to your mind as you look at her is ‘daunting’, as you reflect upon her toned, athletic shape, the large imposing tricorn she wears, the loose, baggy, yet brightly colored red clothes with white accents, and the cutlass adorning her belt’s side. 
+
+If you didn’t know any better, you’d call her a pirate, but you don't recognize her from your travels.
+
+[[Step closer]] 
+
+
+:: Look at the reading patron {"position":"700,600","size":"100,100"}
+Towards the back of the tavern you eye the strange patron, seated alone. The glass lantern over their head is dimmed with soot, casting a warm, flickering light over their hunched figure.
+
+[[Walk closer]] 
+
+
+:: Opening {"position":"100,875","size":"100,100"}
+You are exhausted beyond words can describe, muscles aching for reprieve, but you don’t have to travel any further on this one starry night. You, along with your first mate Rosemary and crew, have arrived at a tavern—the first you’ve seen since ages. You find it strange to see such services near a deep part of the forest, but you don’t think of it too much when you enter.
+
+The scene of the tavern shifts; your crew makes themselves comfortable, mugs of beer in their hands, toasting to another successful voyage, gleaning at the few barmaids that serve their drinks and food. A bard stands close to the fireplace, fingers deftly plucking the lute in their hand as they recount folktales that garner attention from some of the crew. 
+
+You are content with sitting down by yourself, nursing a mug of mead in your hand, for now.
+
+[[Reflect on the Archipelago]] 
+
+[[Reflect on The Adoration]] 
+
+[[Reflect on your crew]] 
+
+[[Pass the time]] 
+
+
+:: Pass the time {"position":"600,875","size":"100,100"}
+A while later, you notice yourself dozing off. However, this isn’t because of your tiredness. It hits you now—you are bored. 
+
+But you notice something else, too. There are others besides your crew here. A patron sitting three stools away from you, another patron intrigued by the bard, and one other patron in a darker corner of the tavern reading a book.
+
+[[Look at the reading patron]] 
+
+[[Look at the bard-enthused patron]] 
+
+[[Look at the patron nearest you]] 
+
+
+:: Point out you are also a self-made mariner {"position":"1400,1575","size":"100,100"}
+You rush to mention that you’re a self-made mariner, too—and while you //did// want to be able to claim the glory of finding it first, you may not mind handing the artifact over to LIME if it meant the help of a strong and self-assured veteran of the sea. Rosemary might take issue with it, but...You’ll figure that out later.
+
+“...Fine,” she finally says, not bothering to order any more drinks. “But if you're serious, we must set off at dawn tomorrow; you can meet me by the docks. I hope you’re prepared.
+
+We can negotiate this as we go…but the moment I think something’s off, our deal is done, and I’m on my own. Get in my way, and there’ll be worse things than being humiliated in a tavern. Got it?”
+
+You nod. You’re just happy you even got the chance.
+
+[[Keep looking around the tavern]]
+
+[[Call it a night]]
+
+
+
+:: Reflect on The Adoration {"position":"225,875","size":"100,100"}
+
+
+[[Continue to reflect]] 
+
+[[Pass the time]] 
+
+
+:: Reflect on the Archipelago {"position":"225,750","size":"100,100"}
+
+
+[[Continue to reflect]] 
+
+[[Pass the time]] 
+
+
+:: Reflect on your crew {"position":"225,1000","size":"100,100"}
+
+
+[[Continue to reflect]]
+
+[[Pass the time]] 
+
+
+:: Step closer {"position":"825,1075","size":"100,100"}
+The fact that the stools next to the pirate-looking lady gave you a small bit of confidence. Maybe she lacked a crew of her own? Before you can muster up the readiness to approach her, you spot someone beating you to the punch—a small group of scrawny-looking men in sailor outfits, strutting up to her with arrogant, confident gait; the type of walk that seemed to proclaim that trouble was brewing.
+
+“Word on the street says ya signed up for that bounty, orange,” the ruffian says, though the buccaneer woman pays him no mind. Agitated, he continues. “Ambitious, aren’t we? But ye don’t have a crew, an’ we sure as ‘ell don’t need a pirate takin’ on the guild’s biggest contract yet. Consider this a polite request to take your name off the expedition and give it to someone else, understand, orange?”
+
+[[Listen in]] 
+
+
+:: Wait for a little too long {"position":"1450,600","size":"100,100"}
+It’s a good several, awkward minutes before Lottie has arranged her paperwork across the table in a way that pleases her, pointing around the veritable tablecloth of documents as she begins to explain.
+
+“I’ve been researching the mist that surrounds the archipelago, or The Veil, as all you ‘sea dogs’ call it.” She looks at you for a second with an anticipatory grin as if gauging your reaction to the epithet. It seems that the seafarers manual she holds so dear must have some dubious “pirate slang” dictionary in it. It’s cute, but you make a mental note to remind her not to use any of it if she happens to meet your crew.
+
+[[Keep listening]] 
+
+
+:: Walk closer {"position":"825,600","size":"100,100"}
+As you approach you notice the dull orange light reflecting eerily off of their exposed arms and hands, skin glistening and moist as if veiled under a membrane of slime. Short, fern-like appendages covered in wispy tendrils adorn either side of their head, idly fluttering as the figure flips through a book with their four fingered hand.
+
+Now, given a moment to think, you can suddenly recall what manner of humanoid you’re looking at: they’re a Lotl-folk. It’s no wonder you had trouble recognizing them at first; they’re exceedingly rare to the archipelago due to a notorious intolerance to salt water. It’s been years since your crew last crossed paths with one.
+
+This one seems to be utterly transfixed by the book laid out in front of them.
+
+[[Get their attention]] 
+
+
+:: What's LIME? {"position":"1450,1200","size":"100,100"}
+She sighs. “League of Independent Mariners and Explorers. Though if you have to ask that, then I take it you’re not associated. The job’s in the name.”
+
+[[Why'd they call you 'orange'?]] 
+
+[[Let her continue]] 
+
+
+:: Why'd they call you 'orange'? {"position":"1325,1200","size":"100,100"}
+“Because my name’s Citra. Father named me after the fruit. Some think they can get cute with it.”
+
+[[What's LIME?]] 
+
+[[Let her continue]] 
+
+
+:: Yes, the rumors are true {"position":"1200,600","size":"100,100"}
+Lottie’s eyes grow even wider and she shakes her head in disbelief, though not disapproval. “Truly remarkable. That an independent crew could take on such a well organized force…and against a frigate, no less-!” She releases your hand and seems to grow a bit embarrassed, brushing through her external gills with her fingers nervously. “Ah, but maybe I’m getting too excited. It’s just that I’ve been waiting for one of you Captains to stop by this dock for ages now.”
+
+To an extent you can understand why she’s so excitable. This is one of the most remote port towns on the archipelago, and if your crew weren’t populating the tavern this evening it would likely be fairly deserted. That being said, it makes you wonder why she’s spent so long in such a dead-end place.
+
+[[Ask what she’s doing here]] 
